@@ -14,6 +14,7 @@ namespace Laba21
             int A = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите Б");
             int B = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("dsadasdasdasd");
             Console.WriteLine("Введите действие, которое хотите сделать:");
             Console.WriteLine("|1: + | |2: - | |3: * | |4: / |");
             while (!false)

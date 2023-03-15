@@ -41,7 +41,7 @@ namespace Laba21
                 }
 
             }
-            Console.WriteLine("Это я Дмитрий Новик Т-096");
+            Console.WriteLine("Это Дмитрий Новик Т-096");
         }
     }
 }
